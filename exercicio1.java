@@ -34,7 +34,7 @@ public class Exercicio1 {
          
          resultado = primeiroNumero + segundoNumero;
          
-         System.out.println("A soma dos numeros é: "+(primeiroNumero+segundoNumero));
+         System.out.println("A soma dos numeros é: "+(resultado));
          
          entrada.close();//fechando entradas
                               
